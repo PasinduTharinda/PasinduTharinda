@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Tharinda</h1>
-<h3 align="center">A Assosiate Software Engineer</h3>
+<h3 align="center">Assosiate Software Engineer</h3>
 
 - 🌱 I’m currently learning **Django,Golang**
 
