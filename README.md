@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pasindu Tharinda and I'm a Software Engineer, from Sri Lanka</h2>
+<h2 align="left">Hi 👋! My name is Pasindu Tharinda and I'm a Senior Software Engineer, from Sri Lanka</h2>
 
 ###
 
